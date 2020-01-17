@@ -4,6 +4,7 @@
       <mapping pattern="EventList" type="Closure template file" />
       <mapping ext="conf" type="EditorConfig" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern="WORKSPACE" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile-serve" type="PLAIN_TEXT" />
       <mapping pattern="JenkinsfileOld" type="PLAIN_TEXT" />
       <mapping pattern="DefaultEntityList" type="PLAIN_TEXT" />
