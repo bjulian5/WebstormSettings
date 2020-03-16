@@ -15,5 +15,6 @@
     <mask>*.js</mask>
     <mask>*.soy</mask>
     <mask>*.scss</mask>
+    <mask>*.json</mask>
   </component>
 </application>
