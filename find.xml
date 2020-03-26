@@ -14,7 +14,7 @@
     <mask>!*.json</mask>
     <mask>*.json</mask>
     <mask>*.soy</mask>
-    <mask>*.js</mask>
     <mask>*.scss</mask>
+    <mask>*.js</mask>
   </component>
 </application>
