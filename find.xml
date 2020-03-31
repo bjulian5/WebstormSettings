@@ -13,8 +13,8 @@
     <mask>*.mxml</mask>
     <mask>!*.json</mask>
     <mask>*.json</mask>
-    <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.soy</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
