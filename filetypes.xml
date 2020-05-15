@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".bazelignore" type="PLAIN_TEXT" />
       <mapping pattern="WORKSPACE" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile " type="PLAIN_TEXT" />
       <mapping ext="bazel" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
