@@ -4,14 +4,12 @@
     <property name="created">2019-03-06T14:24:17</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.3.5.0.0</property>
-    <property name="modified">2020-01-28T15:59:00</property>
+    <property name="modified">2020-07-31T10:40:57</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
+  <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
-  <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="MesloLGS NF" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="98c379" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
@@ -376,15 +374,22 @@
     </option>
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="f9f9f9" />
+        <option name="FOREGROUND" value="233844" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="548acf" />
+      </value>
+    </option>
+    <option name="CONSOLE_BLUE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="335bb7" />
+      </value>
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="33cccc" />
+        <option name="FOREGROUND" value="619f97" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
@@ -397,10 +402,14 @@
         <option name="FOREGROUND" value="70ff70" />
       </value>
     </option>
-    <option name="CONSOLE_GREEN_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
+    <option name="CONSOLE_GREEN_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="8a9823" />
+      </value>
+    </option>
     <option name="CONSOLE_MAGENTA_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff70ff" />
+        <option name="FOREGROUND" value="b6397f" />
       </value>
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
@@ -416,9 +425,14 @@
     <option name="CONSOLE_RANGE_TO_EXECUTE">
       <value />
     </option>
+    <option name="CONSOLE_RED_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="bd3633" />
+      </value>
+    </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="e6e6e6" />
+        <option name="FOREGROUND" value="f8f8f0" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
@@ -429,12 +443,12 @@
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="abb2bf" />
+        <option name="FOREGROUND" value="ebe7d5" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="cdcd00" />
+        <option name="FOREGROUND" value="a88820" />
       </value>
     </option>
     <option name="CSS.COLOR">
@@ -497,7 +511,6 @@
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="e5c17c" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">

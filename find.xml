@@ -9,13 +9,12 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
+    <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.sass</mask>
     <mask>!*.json</mask>
     <mask>*.json</mask>
-    <mask>.soy</mask>
-    <mask>*.soy</mask>
-    <mask>*.css</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
+    <mask>*.soy</mask>
   </component>
 </application>
